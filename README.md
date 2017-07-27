@@ -70,14 +70,14 @@ nginx -v
 接下来就可以试下直播的效果了**
 下载VLC客户端
 ![screenshots](https://github.com/zhuzhongshen/LiveDemo/blob/master/screenshots/screenshots07.jpeg)
-![screenshots](https://github.com/zhuzhongshen/LiveDemo/blob/master/screenshots/screenshots08.jpeg)
+![screenshots](https://github.com/zhuzhongshen/LiveDemo/blob/master/screenshots/screenshots08.png)
 
 
 将视频推流到服务器后，打开VLC，然后File->open network->输入：
 
 rtmp://192.168.1.105:1935/rtmplive/room (192.168.1.105为本机IP地址)
-![screenshots](https://github.com/zhuzhongshen/LiveDemo/blob/master/screenshots/screenshots09.jpeg)
-![screenshots](https://github.com/zhuzhongshen/LiveDemo/blob/master/screenshots/screenshots10.jpeg)
+![screenshots](https://github.com/zhuzhongshen/LiveDemo/blob/master/screenshots/screenshots09.png)
+![screenshots](https://github.com/zhuzhongshen/LiveDemo/blob/master/screenshots/screenshots10.png)
 
 
 
