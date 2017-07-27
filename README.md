@@ -9,4 +9,4 @@ man brew
 
 如果出现以下页面说明已经安装直接输入 Q 退出，然后执行第一步
 
-![](./screenshots/screenshots01)
+![](https://github.com/zhuzhongshen/LiveDemo/blob/master/screenshots/screenshots01.png)
